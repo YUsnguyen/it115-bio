@@ -6,19 +6,6 @@ Go back to Heather's video and see if we can get more tips like:
 4.) Call to action
 5.) End with personality 
 
+Hi, my name is Sharon Nguyen. I have 6-7 years of healthcare experience as a Certified Nurse Assistant, and am currently transitioning out of healthcare into software development. I made this tough decision to sacrifice my current career to transition into the tech industry due to burn out during COVID-19, and because I saw how important software/programming tools have within the health realm. 
 
-1.) One must have audience in mind prior to creating a bio, and tailor the bio to best fit the audience. This helps capturing audience's attention. It is fine to have different iterations of a bio. 
-
-2.) Heather concisely elaborates 3 steps to creating a powerful introduction to the bio. The outline is a concise way to prove a pain point and stand out. 
-  A.) Who you are
-  B.) What your audience can expect from you
-  C.) How you are going to help them 
-
-3.) Paint a short narrative about the things that make you unique (Ex. your professional background, education, skills etc...), it is beneficial to weave a story into it to make it more personalized and natural 
-
-4.) Heather states that a bio should next have a CTA. This part of the bio should grab the audience's attention to learn about the person further. Examples given are:
-  A.) Sharing social media platforms that you are on
-  B.) Sharing a link to your website
-  C.) Offering something beneficial as an initiative for the audience to learn more
-  
-5.) End the bio with something relatable about you to add personality.
+I hope to merge my interpersonal skills, mission-driven passion for accessible healthcare, and patient advocacy into an app developer. It is my ultimate goal to create an app like Door Dash, that can help end period poverty by providing hygeine products to under-served communities. If you would like to learn more about my journey with Year Up as an emerging professional, i can be found on LinkedIn and Github.
